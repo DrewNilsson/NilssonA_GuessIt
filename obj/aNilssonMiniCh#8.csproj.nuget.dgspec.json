@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAGuessIt/aNilssonMiniCh#8/aNilssonMiniCh#8.csproj": {}
+    "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level1\\DrewsCh8\\aNilssonMiniCh-8\\aNilssonMiniCh#8.csproj": {}
   },
   "projects": {
-    "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAGuessIt/aNilssonMiniCh#8/aNilssonMiniCh#8.csproj": {
+    "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level1\\DrewsCh8\\aNilssonMiniCh-8\\aNilssonMiniCh#8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAGuessIt/aNilssonMiniCh#8/aNilssonMiniCh#8.csproj",
+        "projectUniqueName": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level1\\DrewsCh8\\aNilssonMiniCh-8\\aNilssonMiniCh#8.csproj",
         "projectName": "aNilssonMiniCh#8",
-        "projectPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAGuessIt/aNilssonMiniCh#8/aNilssonMiniCh#8.csproj",
-        "packagesPath": "/Users/drewnilsson/.nuget/packages/",
-        "outputPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonAGuessIt/aNilssonMiniCh#8/obj/",
+        "projectPath": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level1\\DrewsCh8\\aNilssonMiniCh-8\\aNilssonMiniCh#8.csproj",
+        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carol\\Documents\\CodeStack 22-23\\Level1\\DrewsCh8\\aNilssonMiniCh-8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

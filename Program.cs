@@ -1,11 +1,4 @@
-﻿// Andrew Nilsson
-// 09/15/2022
-// Mini Challenge #8 - Guess It
-// This is a console project that the user inputs the mode they want then guesses a random number
-// Peer reviewed by: Isaiah Ferguson Works great guess count will cycle again when same mode is activated 
-// two times in a row (He is fixing it now) the flow chart is extremely well written and flows nicely!
-
-
+﻿
 int mode = 0;
 int tries = 0;
 int guess = -10;
@@ -51,7 +44,7 @@ while (loopGame)
     int num = rnd.Next(1, mode);
 
     Console.WriteLine($"Guess a number between 1 and {mode - 1}");
-
+    guess = -1;
     while (guess != num)
     {
         validNum = int.TryParse(Console.ReadLine(), out guess);
