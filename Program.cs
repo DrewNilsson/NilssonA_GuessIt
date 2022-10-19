@@ -1,4 +1,4 @@
-﻿
+﻿Console.Clear();
 int mode = 0;
 int tries = 0;
 int guess = -10;
